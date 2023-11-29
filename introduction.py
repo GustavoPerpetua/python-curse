@@ -11,3 +11,5 @@ print("Hello, I am Gustavo ")
 
 # Function input is going to help us to input data from the users example:
 name = input("Whats is your name?:  ")
+
+# We are going to start in tipes after that we are ready to do our first exercise
