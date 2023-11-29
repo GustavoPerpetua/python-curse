@@ -1,11 +1,10 @@
-# In this exercise we are going to start making a basic calculator
+# In this exercise we are going to start making a basic calculator, needs to add, sust, mult and div, two numbers
 
-num1 = input("Please, give me a number: ")
-num2 = input("Please, give me a second number: ")
-
+num1 = int(input("Please, give me a number: "))
+num2 = int(input("Please, give me a second number: "))
 # in this lines we convert the string from the user to a integer number
-num1 = int(num1)
-num2 = int(num2)
+
+# Result
 
 add = num1 + num2
 sust = num1 - num2

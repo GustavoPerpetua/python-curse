@@ -13,3 +13,4 @@ print("Hello, I am Gustavo ")
 name = input("Whats is your name?:  ")
 
 # We are going to start in tipes after that we are ready to do our first exercise
+# After Flow Control you are ready to do the second exercise
