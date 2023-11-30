@@ -1,3 +1,8 @@
+# in this exercise we are goint to ask a number an operation and a second number, show the result and ask for another operation and other number unitl the user input exit
+
+
+# Result
+
 result = ""
 
 while True:
