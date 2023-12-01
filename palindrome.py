@@ -13,7 +13,7 @@ def backwards(txt):
     return btxt
 
 
-def palindromo(txt):
+def palindrome(txt):
     text = txt
     txt = noSpace(txt)
     backwardsTxt = backwards(txt)
@@ -24,8 +24,8 @@ def palindromo(txt):
         print(f"{text} sorry it is not :(")
 
 
-palindromo("amo la paloma")
-palindromo("menem")
-palindromo("mi mama me mima")
-palindromo("race car")
-palindromo("A man a plan a canal  Panama")
+palindrome("amo la paloma")
+palindrome("menem")
+palindrome("mi mama me mima")
+palindrome("race car")
+palindrome("A man a plan a canal  Panama")
