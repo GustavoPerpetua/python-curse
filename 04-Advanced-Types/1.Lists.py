@@ -4,3 +4,6 @@ words = ["hi", "hello", "hola", "que tal"]
 booleans = [True, False, True, False, False]
 matix = [[0, 0], [0, 1], [1, 0], [1, 1]]
 ceros = [0] * 10
+alphanum = numbers + leters
+range = list(range(1, 11))
+char = list("Gustavo Perpetua")
