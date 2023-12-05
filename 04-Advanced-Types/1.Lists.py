@@ -7,3 +7,14 @@ ceros = [0] * 10
 alphanum = numbers + leters
 range = list(range(1, 11))
 char = list("Gustavo Perpetua")
+
+
+pets = ["kiki", "mimi", "charly", "coco", "cinnamon", "pepper"]
+print(pets)
+print(pets[0])
+print(pets[0:3])
+print(pets[-2])
+print(pets[::3])
+print(pets[1::2])
+pets[1] = "momo"
+print(pets)
